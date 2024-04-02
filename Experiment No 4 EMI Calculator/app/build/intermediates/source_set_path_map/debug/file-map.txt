@@ -1,0 +1,40 @@
+com.example.depositInterest.app-lifecycle-runtime-ktx-2.6.1-0 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\063c537ea3a6618a830844cc421e8be8\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.depositInterest.app-emoji2-views-helper-1.2.0-1 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\11c9c1f9b60294153208c6638877ee5f\transformed\emoji2-views-helper-1.2.0\res
+com.example.depositInterest.app-material-1.11.0-2 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\12cb711a23364622b5f9559f70c53e65\transformed\material-1.11.0\res
+com.example.depositInterest.app-lifecycle-viewmodel-savedstate-2.6.1-3 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\1ebfdfb34aaf3f22b548765147eb074b\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.depositInterest.app-startup-runtime-1.1.1-4 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\1f8ef0e19c00680c89f5a8963a2d28b2\transformed\startup-runtime-1.1.1\res
+com.example.depositInterest.app-lifecycle-livedata-2.6.1-5 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\2609c7668db65ccb4f606bdab526ddbf\transformed\lifecycle-livedata-2.6.1\res
+com.example.depositInterest.app-cardview-1.0.0-6 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\313de6c22b0b0f39a51fe1361cdd3989\transformed\cardview-1.0.0\res
+com.example.depositInterest.app-core-ktx-1.12.0-7 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\33c268cfd45c589b3687cdc4359e256f\transformed\core-ktx-1.12.0\res
+com.example.depositInterest.app-drawerlayout-1.1.1-8 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\49589254383f66b06d9f12f1a7414b1f\transformed\drawerlayout-1.1.1\res
+com.example.depositInterest.app-core-1.12.0-9 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\6c39bbe15bb920384cbbc6b07ccd7624\transformed\core-1.12.0\res
+com.example.depositInterest.app-fragment-1.6.2-10 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\6ca54bbc97feaa556ec6d8f5ee925298\transformed\fragment-1.6.2\res
+com.example.depositInterest.app-coordinatorlayout-1.1.0-11 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\6d5aa75f3700867211bb7b857420bc34\transformed\coordinatorlayout-1.1.0\res
+com.example.depositInterest.app-activity-1.8.0-12 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\6fbcb82a32f3e9ba2b162ac9d5615e21\transformed\activity-1.8.0\res
+com.example.depositInterest.app-activity-ktx-1.8.0-13 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\77752c0cad2bf850d5873621f23969ad\transformed\activity-ktx-1.8.0\res
+com.example.depositInterest.app-transition-1.2.0-14 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\7f6fb36f180f45af3197497958d23a2e\transformed\transition-1.2.0\res
+com.example.depositInterest.app-lifecycle-viewmodel-2.6.1-15 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\8227eab5bc1fd261e01ae24424aa08dd\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.depositInterest.app-recyclerview-1.1.0-16 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\934b8fcf59b7506c3fe6186b302234df\transformed\recyclerview-1.1.0\res
+com.example.depositInterest.app-annotation-experimental-1.3.0-17 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\9ef57403aba35f8b90caa61fd9bd3f3d\transformed\annotation-experimental-1.3.0\res
+com.example.depositInterest.app-lifecycle-process-2.6.1-18 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\a188ba5662bebe396eb0d9e54df8ccc1\transformed\lifecycle-process-2.6.1\res
+com.example.depositInterest.app-profileinstaller-1.3.0-19 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\ad2fef5a21673d8250d1b8477f715019\transformed\profileinstaller-1.3.0\res
+com.example.depositInterest.app-fragment-ktx-1.6.2-20 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\b35db1be850c4e56eafd1cc8c360852a\transformed\fragment-ktx-1.6.2\res
+com.example.depositInterest.app-core-runtime-2.2.0-21 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\b38f4385df368026cb22bb15e4c10190\transformed\core-runtime-2.2.0\res
+com.example.depositInterest.app-viewpager2-1.0.0-22 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\b8f92ed6653512b9d37d25137f11c972\transformed\viewpager2-1.0.0\res
+com.example.depositInterest.app-constraintlayout-2.1.4-23 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\b9c51eb25cf89f205f08e11d73f7eb69\transformed\constraintlayout-2.1.4\res
+com.example.depositInterest.app-savedstate-1.2.1-24 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\ba6877252f65bbe332139d86c9360ad1\transformed\savedstate-1.2.1\res
+com.example.depositInterest.app-appcompat-1.6.1-25 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\c084df91342fb44fa50dfca35e26868d\transformed\appcompat-1.6.1\res
+com.example.depositInterest.app-lifecycle-livedata-core-2.6.1-26 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\c36e5575c00ea31a9d207abae5afcb08\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.depositInterest.app-emoji2-1.2.0-27 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\c46fcffe7f7d423be280b856f5d571b2\transformed\emoji2-1.2.0\res
+com.example.depositInterest.app-savedstate-ktx-1.2.1-28 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\d78be59a78e5f04e3b257ce70100c1bc\transformed\savedstate-ktx-1.2.1\res
+com.example.depositInterest.app-lifecycle-runtime-2.6.1-29 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\ed9fa8df9188eb18e508f2b6055227f7\transformed\lifecycle-runtime-2.6.1\res
+com.example.depositInterest.app-lifecycle-viewmodel-ktx-2.6.1-30 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\f0844d9aaba01e14debfdeafa4f53b0f\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.depositInterest.app-lifecycle-livedata-core-ktx-2.6.1-31 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\f2ab018b639ef6f798418106a17b7c15\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+com.example.depositInterest.app-appcompat-resources-1.6.1-32 C:\Users\ADITYA THAKUR\.gradle\caches\transforms-3\f5a6ddeb1850853aca223b17fa21fce9\transformed\appcompat-resources-1.6.1\res
+com.example.depositInterest.app-pngs-33 C:\Users\ADITYA THAKUR\Documents\GitHub\Mobile-Computing\Experiment No 4 EMI Calculator\app\build\generated\res\pngs\debug
+com.example.depositInterest.app-resValues-34 C:\Users\ADITYA THAKUR\Documents\GitHub\Mobile-Computing\Experiment No 4 EMI Calculator\app\build\generated\res\resValues\debug
+com.example.depositInterest.app-packageDebugResources-35 C:\Users\ADITYA THAKUR\Documents\GitHub\Mobile-Computing\Experiment No 4 EMI Calculator\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.depositInterest.app-packageDebugResources-36 C:\Users\ADITYA THAKUR\Documents\GitHub\Mobile-Computing\Experiment No 4 EMI Calculator\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.depositInterest.app-merged_res-37 C:\Users\ADITYA THAKUR\Documents\GitHub\Mobile-Computing\Experiment No 4 EMI Calculator\app\build\intermediates\merged_res\debug
+com.example.depositInterest.app-debug-38 C:\Users\ADITYA THAKUR\Documents\GitHub\Mobile-Computing\Experiment No 4 EMI Calculator\app\src\debug\res
+com.example.depositInterest.app-main-39 C:\Users\ADITYA THAKUR\Documents\GitHub\Mobile-Computing\Experiment No 4 EMI Calculator\app\src\main\res

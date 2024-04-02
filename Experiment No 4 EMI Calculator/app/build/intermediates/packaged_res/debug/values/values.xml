@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compoundTime">
+        <item>Yearly</item>
+        <item>Semi-anually</item>
+        <item>Quarterly</item>
+        <item>Monthly</item>
+    </string-array>
+    <string-array name="depositTypeList">
+        <item>Individual</item>
+        <item>Corporate</item>
+
+    </string-array>
+    <color name="Bright_green">#FF6E40</color>
+    <color name="Text_white">#ecfcf5</color>
+    <color name="bar_color">#110115</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#989898</color>
+    <color name="gray1">#4C4B4B</color>
+    <color name="green">#4915DA</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="annum">\*per annum</string>
+    <string name="app_name">EMI Calculator</string>
+    <string name="cTime">Compound Time</string>
+    <string name="depositAmount">Deposit Amount</string>
+    <string name="depositTenure">Deposit Tenure</string>
+    <string name="depositType">Deposit Type</string>
+    <string name="interestRate">Interest Rate</string>
+    <string name="ir">Interest\nReceivable</string>
+    <string name="lnTenure">Loan Tenure</string>
+    <string name="lnamount">Loan Amount</string>
+    <string name="months">in months</string>
+    <string name="pp">Principal</string>
+    <string name="rupees">in rupees</string>
+    <string name="ta">Tax Amount</string>
+    <string name="tap">Total Amount\nPayable</string>
+    <string name="tar">Total Amount\nReceivable</string>
+    <style name="Base.Theme.depositInterest" parent="Theme.AppCompat.Light.DarkActionBar">
+       <item name="android:statusBarColor">@color/bar_color</item>
+    </style>
+    <style name="Theme.depositInterest" parent="Base.Theme.depositInterest"/>
+    <style name="tab_text" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:fontFamily">@font/fonts</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">11.37sp</item>
+    </style>
+</resources>
