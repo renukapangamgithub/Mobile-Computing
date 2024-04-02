@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.santossingh.bluetoothfiletransfer.app-mergeDebugResources-6:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADITYA THAKUR\\Downloads\\Mobile-Computing-Experiments-main1\\Mobile-Computing-Experiments-main\\Experiment No 1 - Bluetooth network with application\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
